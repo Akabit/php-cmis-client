@@ -1,5 +1,5 @@
 {
-    "name": "dkd/php-cmis",
+    "name": "akabit/php-cmis",
     "type": "library",
     "description": "PHP CMIS client library based on CMIS 1.1",
     "keywords": ["cmis"],
@@ -14,10 +14,10 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=8.0.0",
         "dkd/enumeration": "~0.1",
         "dkd/php-populate": "^1",
-        "guzzlehttp/guzzle": "^6",
+        "guzzlehttp/guzzle": "^7",
         "guzzlehttp/streams": "^3",
         "doctrine/cache": "^1",
         "league/url": "^2|^3"
